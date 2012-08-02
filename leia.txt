@@ -1,0 +1,39 @@
+/*
+* Módulo de Pagamento Boleto Bancário Banco Bradesco
+* Feito sobre OpenCart 1.5.3.1
+* Autor Valdeir Santana <valdeirpsr@hotmail.com.br>
+* Modificação feita a parti do módulo Boleto Bancário Banco Itaú desenvolvido por Guilherme Desimon - http://www.desimon.net
+* Sob licença GPL.
+*/
+
+Instalação:
+
+1) Extrair para a raiz da loja.
+
+
+2) Na área administrativa da loja dar permissão para o grupo de usuários desejado para acessar e modificar o módulo payment/boleto_bradesco:
+
+2.1) Na sua área administrativa "/admin" vá em Sistema -> Usuários -> Grupos de Usuários;
+
+2.2) No grupo "Top Administrator" clique em Editar;
+
+2.3) Na lista "Permissão de Acesso", marque a opção "Payment/boleto_bradesco";
+
+2.4) Faça o mesmo na lista "Permissão de Modificação";
+
+
+
+3)Configurar o módulo com os dados do boleto necessários, vá em Extensões -> Formas de Pagamento;
+
+3.1) Encontre o módulo "Boleto Bancário Banco Itaú" e clique em Editar;
+
+3.2) Configure os campos necessários de acordo com seu dados de geração de boleto.
+
+
+Instalação Concluída!
+
+
+
+Valdeir Santana
+Email: valdeirpsr@hotmail.com.br
+Skype: valdeir2000
