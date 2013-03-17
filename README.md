@@ -26,8 +26,7 @@ desenvolvido por Guilherme Desimon - http://www.desimon.net
 
 
 
-Instalação
-==========
+### Instalação
 
 1) Extrair para a raiz da loja.                                                                                                              
 
