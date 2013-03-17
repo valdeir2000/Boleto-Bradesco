@@ -1,7 +1,6 @@
 Boleto-Bradesco
 ===============
 
-
 Boleto Bradesco para OpenCart                                        
 
 Este arquivo está disponível sob a Licença GPL disponível pela Web   
